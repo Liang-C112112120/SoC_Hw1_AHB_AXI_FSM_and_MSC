@@ -1,5 +1,5 @@
-SIP: INTI-CMNB/MiniUART_IP_core
-https://github.com/INTI-CMNB/MiniUART_IP_core
+SIP: INTI-CMNB/MiniUART_IP_core https://github.com/INTI-CMNB/MiniUART_IP_core  
+作圖工具: draw.io
 
 AHB Wrapper FSM and MSC:
 <img width="2178" height="1409" alt="AHB_MASTER_SLAVE_R W_WRAPPER_FSM" src="https://github.com/user-attachments/assets/f6758e39-5ec4-4e0f-8e6d-6b24ef97e4af" />
